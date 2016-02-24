@@ -1,0 +1,3 @@
+# AVPlayerMovie
+简单的实现AVPlayer播放视频的小Demo
+iOS9.0之后使用AVPlayer 简单的实现了本地的视频播放功能，自定义了播放界面的View，封装了方法，使用Xib实现辅助小按钮的功能。使用CocoaPods引入第三方Masonry做的比方界面的适配问题。
